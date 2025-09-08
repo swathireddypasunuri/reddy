@@ -1,0 +1,6 @@
+a =10
+b =10
+c =a+b
+ptint(a+b)
+print(10+10)
+outpt = 20
